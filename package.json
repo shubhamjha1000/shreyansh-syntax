@@ -1,0 +1,17 @@
+{
+  "name": "shreyansh-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "The most beautiful syntax theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme",
+    "shreyansh",
+    "shreyansh-syntax"
+  ],
+  "repository": "https://github.com/atom/shreyansh-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
